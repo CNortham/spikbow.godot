@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1736055568|2837366926';
+const CACHE_VERSION = '1736055943|3211791900';
 /** @type {string} */
 const CACHE_PREFIX = 'Spikbow-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
